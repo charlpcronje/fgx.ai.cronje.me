@@ -18,7 +18,7 @@ This app leverages [OpenAI](https://ai.com)'s recently released ChatGPT API with
 
 Clone the repository
 ```sh
-git clone https://github.com/charlpcronje/gardenroute.mall.ai.cronje.me
+git clone https://github.com/charlpcronje/fgx.ai.cronje.me
 ```
 
 Create a .env file within the new directory
